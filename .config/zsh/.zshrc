@@ -1,4 +1,3 @@
-export GPG_TTY=$(tty) 
 #eval $(keychain --agent "gpg,ssh" --dir ${KEYCHAIN_DIR} --quiet --gpg2 ventbyte_ed25519 C012CC61)
 #/usr/bin/keychain --nogui $HOME/.ssh/ventbyte_ed25519
 #source $HOME/.local/keychain/$(hostname)-sh
