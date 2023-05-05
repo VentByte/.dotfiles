@@ -1,0 +1,3 @@
+# SSH Keyfiles
+.ssh/*_rsa
+.ssh/*_ed25519

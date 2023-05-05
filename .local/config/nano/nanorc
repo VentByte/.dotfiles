@@ -2,7 +2,7 @@ set autoindent      # A new line will have the same number of leading spaces as 
 
 # Enable and set a working backup directory
 set backup                              # Creates backups of your current file.
-set backupdir "$XDG_CACHE_HOME/nano/"  # The location of the backups.
+set backupdir ~/.local/cache/nano  # The location of the backups.
 
 set casesensitive   # Case insensitive search.
 set constantshow    # Displays useful information e.g. line number and position in the bottom bar.

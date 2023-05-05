@@ -1,2 +1,5 @@
 [init]
 	defaultBranch = master
+[user]
+	name = VentByte
+	email = VentByte@yeetlab.net
