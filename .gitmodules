@@ -1,0 +1,19 @@
+[submodule "/home/ventbyte/.local/state/zsh/themes/powerlevel10k"]
+	path = /home/ventbyte/.local/state/zsh/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
+
+[submodule "/home/ventbyte/.local/state/zsh/plugins/zsh-autosuggestions"]
+	path = /home/ventbyte/.local/state/zsh/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions.git
+
+[submodule "/home/ventbyte/.local/state/zsh/plugins/zsh-completions"]
+	path = /home/ventbyte/.local/state/zsh/plugins/zsh-completions
+	url = https://github.com/zsh-users/zsh-completions.git
+
+[submodule "/home/ventbyte/.local/state/zsh/plugins/zsh-syntax-highlighting"]
+	path = /home/ventbyte/.local/state/zsh/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+
+[submodule "/home/ventbyte/.local/state/dircolors"]
+	path = /home/ventbyte/.local/state/dircolors
+	url = https://github.com/seebi/dircolors-solarized.git
