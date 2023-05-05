@@ -10,6 +10,7 @@ export DOTFILES=$XDG_CONFIG_HOME/dotfiles
 
 ## === ZSH === ###
 export ZDOTDIR="$XDG_CONFIG_HOME/zsh"
+export HISTFILE="$XDG_DATA_HOME/zsh/zhistory"
 export ZSH_COMPDUMP="$XDG_DATA_HOME/zsh/zcompdump"
 
 ## === GnuPG === ##
