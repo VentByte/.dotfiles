@@ -7,7 +7,10 @@ export XDG_CACHE_HOME=$HOME/.local/cache
 # ## === Paths === ##
 export KEYCHAIN_DIR=$XDG_STATE_HOME/keychain
 export DOTFILES=$XDG_CONFIG_HOME/dotfiles
+
+## === ZSH === ###
 export ZDOTDIR="$XDG_CONFIG_HOME/zsh"
+export ZSH_COMPDUMP="$XDG_DATA_HOME/zsh/zcompdump"
 
 ## === GnuPG === ##
 export GNUPGNOME=$XDG_CONFIG_HOME/gnupg
