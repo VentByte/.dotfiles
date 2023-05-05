@@ -15,9 +15,9 @@ source $XDG_STATE_HOME/zsh/themes/powerlevel10k/powerlevel10k.zsh-theme
 source $XDG_STATE_HOME/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $XDG_STATE_HOME/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-fpath=(.local/zsh/plugins/zsh-completions/src $fpath)
+fpath=($XDG_STATE_HOME/zsh/plugins/zsh-completions/src $fpath)
 
-eval $(dircolors $XDG_CONFIG_HOME/dircolors/dircolors.256dark)
+eval $(dircolors $XDG_STATE_HOME/dircolors/dircolors.256dark)
 
 # Enable the completion system
 autoload compinit
